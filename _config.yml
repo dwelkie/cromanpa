@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url:
+title: Home
+description: "My personal Website"
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: http://cromanpa94.github.io/cromanpa
 
 # Jekyll configuration
 
@@ -37,14 +37,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
+  name: Cristian Román-Palacios
+  email: cromanpa94@email.arizona.edu
+  bio: "Ph.D. student at Wiens Lab (UofArizona). Mainly interested on Macroevolution and trait evolution"
   avatar: bio-photo.jpg # 160x160 px image for author byline
+  google:
+    plus: +CristianRomanPalaciosn
   disqus-shortname:
 
 
